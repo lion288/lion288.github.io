@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="3" desc="" eventsnippetid="0" extheight="720" extwidth="480" extx="-40" exty="-40" format="3.4.0" gravx="-0.0" gravy="0.0" height="640" id="0" name="main" revision="" savecount="0" tiled="1" tileh="40" tilew="40" type="standard" width="360">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="64,64,64" id="2" locked="false" name="Слой 2" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="1" locked="false" name="Слой 1" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Слой 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="650" id="0" name="Район 0" pts="4,0.0,0.0,0.0,650.0,369.0,650.0,369.0,0.0" r="64" type="box" w="369" x="-8" y="-9"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="45" name="grassmain 1" sx="1.0" sy="1.0" x="0" y="0" z="2"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="45" name="grassmain 2" sx="1.0" sy="1.0" x="40" y="0" z="2"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="45" name="grassmain 3" sx="1.0" sy="1.0" x="80" y="0" z="2"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="45" name="grassmain 4" sx="1.0" sy="1.0" x="120" y="0" z="2"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="45" name="grassmain 5" sx="1.0" sy="1.0" x="160" y="0" z="2"/>
+        <actor a="0.0" aid="6" c="false" group="3" id="45" name="grassmain 6" sx="1.0" sy="1.0" x="200" y="40" z="2"/>
+        <actor a="0.0" aid="7" c="false" group="3" id="45" name="grassmain 7" sx="1.0" sy="1.0" x="240" y="40" z="2"/>
+        <actor a="0.0" aid="8" c="false" group="3" id="45" name="grassmain 8" sx="1.0" sy="1.0" x="280" y="40" z="2"/>
+        <actor a="0.0" aid="9" c="false" group="3" id="45" name="grassmain 9" sx="1.0" sy="1.0" x="320" y="40" z="2"/>
+        <actor a="0.0" aid="11" c="false" group="3" id="45" name="grassmain 11" sx="1.0" sy="1.0" x="320" y="0" z="2"/>
+        <actor a="0.0" aid="12" c="false" group="3" id="45" name="grassmain 12" sx="1.0" sy="1.0" x="280" y="0" z="2"/>
+        <actor a="0.0" aid="13" c="false" group="3" id="45" name="grassmain 13" sx="1.0" sy="1.0" x="240" y="0" z="2"/>
+        <actor a="0.0" aid="14" c="false" group="3" id="45" name="grassmain 14" sx="1.0" sy="1.0" x="200" y="0" z="2"/>
+        <actor a="0.0" aid="17" c="false" group="3" id="45" name="grassmain 17" sx="1.0" sy="1.0" x="320" y="80" z="2"/>
+        <actor a="0.0" aid="20" c="false" group="3" id="45" name="grassmain 20" sx="1.0" sy="1.0" x="240" y="120" z="2"/>
+        <actor a="0.0" aid="21" c="false" group="3" id="45" name="grassmain 21" sx="1.0" sy="1.0" x="200" y="120" z="2"/>
+        <actor a="0.0" aid="22" c="false" group="3" id="45" name="grassmain 22" sx="1.0" sy="1.0" x="160" y="120" z="2"/>
+        <actor a="0.0" aid="25" c="false" group="3" id="45" name="grassmain 25" sx="1.0" sy="1.0" x="200" y="80" z="2"/>
+        <actor a="0.0" aid="26" c="false" group="3" id="45" name="grassmain 26" sx="1.0" sy="1.0" x="240" y="80" z="2"/>
+        <actor a="0.0" aid="27" c="false" group="3" id="45" name="grassmain 27" sx="1.0" sy="1.0" x="280" y="80" z="2"/>
+        <actor a="0.0" aid="33" c="false" group="3" id="45" name="grassmain 33" sx="1.0" sy="1.0" x="240" y="200" z="2"/>
+        <actor a="0.0" aid="34" c="false" group="3" id="45" name="grassmain 34" sx="1.0" sy="1.0" x="240" y="160" z="2"/>
+        <actor a="0.0" aid="35" c="false" group="3" id="45" name="grassmain 35" sx="1.0" sy="1.0" x="200" y="160" z="2"/>
+        <actor a="0.0" aid="36" c="false" group="3" id="45" name="grassmain 36" sx="1.0" sy="1.0" x="160" y="160" z="2"/>
+        <actor a="0.0" aid="37" c="false" group="3" id="45" name="grassmain 37" sx="1.0" sy="1.0" x="120" y="120" z="2"/>
+        <actor a="0.0" aid="38" c="false" group="3" id="45" name="grassmain 38" sx="1.0" sy="1.0" x="120" y="80" z="2"/>
+        <actor a="0.0" aid="39" c="false" group="3" id="45" name="grassmain 39" sx="1.0" sy="1.0" x="80" y="80" z="2"/>
+        <actor a="0.0" aid="42" c="false" group="3" id="45" name="grassmain 42" sx="1.0" sy="1.0" x="0" y="40" z="2"/>
+        <actor a="0.0" aid="43" c="false" group="3" id="45" name="grassmain 43" sx="1.0" sy="1.0" x="0" y="80" z="2"/>
+        <actor a="0.0" aid="44" c="false" group="3" id="45" name="grassmain 44" sx="1.0" sy="1.0" x="40" y="80" z="2"/>
+        <actor a="0.0" aid="45" c="false" group="3" id="45" name="grassmain 45" sx="1.0" sy="1.0" x="120" y="40" z="2"/>
+        <actor a="0.0" aid="46" c="false" group="3" id="45" name="grassmain 46" sx="1.0" sy="1.0" x="80" y="120" z="2"/>
+        <actor a="0.0" aid="47" c="false" group="3" id="45" name="grassmain 47" sx="1.0" sy="1.0" x="40" y="120" z="2"/>
+        <actor a="0.0" aid="48" c="false" group="3" id="45" name="grassmain 48" sx="1.0" sy="1.0" x="40" y="160" z="2"/>
+        <actor a="0.0" aid="49" c="false" group="3" id="45" name="grassmain 49" sx="1.0" sy="1.0" x="0" y="160" z="2"/>
+        <actor a="0.0" aid="50" c="false" group="3" id="45" name="grassmain 50" sx="1.0" sy="1.0" x="0" y="120" z="2"/>
+        <actor a="0.0" aid="51" c="false" group="3" id="45" name="grassmain 51" sx="1.0" sy="1.0" x="80" y="160" z="2"/>
+        <actor a="0.0" aid="52" c="false" group="3" id="45" name="grassmain 52" sx="1.0" sy="1.0" x="120" y="160" z="2"/>
+        <actor a="0.0" aid="53" c="false" group="3" id="45" name="grassmain 53" sx="1.0" sy="1.0" x="120" y="200" z="2"/>
+        <actor a="0.0" aid="54" c="false" group="3" id="45" name="grassmain 54" sx="1.0" sy="1.0" x="80" y="200" z="2"/>
+        <actor a="0.0" aid="55" c="false" group="3" id="45" name="grassmain 55" sx="1.0" sy="1.0" x="40" y="200" z="2"/>
+        <actor a="0.0" aid="56" c="false" group="3" id="45" name="grassmain 56" sx="1.0" sy="1.0" x="0" y="200" z="2"/>
+        <actor a="0.0" aid="57" c="false" group="3" id="45" name="grassmain 57" sx="1.0" sy="1.0" x="160" y="200" z="2"/>
+        <actor a="0.0" aid="58" c="false" group="3" id="45" name="grassmain 58" sx="1.0" sy="1.0" x="200" y="200" z="2"/>
+        <actor a="0.0" aid="59" c="false" group="3" id="45" name="grassmain 59" sx="1.0" sy="1.0" x="200" y="240" z="2"/>
+        <actor a="0.0" aid="60" c="false" group="3" id="45" name="grassmain 60" sx="1.0" sy="1.0" x="240" y="240" z="2"/>
+        <actor a="0.0" aid="68" c="false" group="3" id="45" name="grassmain 68" sx="1.0" sy="1.0" x="240" y="280" z="2"/>
+        <actor a="0.0" aid="69" c="false" group="3" id="45" name="grassmain 69" sx="1.0" sy="1.0" x="200" y="280" z="2"/>
+        <actor a="0.0" aid="70" c="false" group="3" id="45" name="grassmain 70" sx="1.0" sy="1.0" x="160" y="280" z="2"/>
+        <actor a="0.0" aid="71" c="false" group="3" id="45" name="grassmain 71" sx="1.0" sy="1.0" x="120" y="280" z="2"/>
+        <actor a="0.0" aid="72" c="false" group="3" id="45" name="grassmain 72" sx="1.0" sy="1.0" x="80" y="280" z="2"/>
+        <actor a="0.0" aid="73" c="false" group="3" id="45" name="grassmain 73" sx="1.0" sy="1.0" x="80" y="240" z="2"/>
+        <actor a="0.0" aid="74" c="false" group="3" id="45" name="grassmain 74" sx="1.0" sy="1.0" x="40" y="240" z="2"/>
+        <actor a="0.0" aid="75" c="false" group="3" id="45" name="grassmain 75" sx="1.0" sy="1.0" x="160" y="240" z="2"/>
+        <actor a="0.0" aid="76" c="false" group="3" id="45" name="grassmain 76" sx="1.0" sy="1.0" x="120" y="240" z="2"/>
+        <actor a="0.0" aid="77" c="false" group="3" id="45" name="grassmain 77" sx="1.0" sy="1.0" x="40" y="280" z="2"/>
+        <actor a="0.0" aid="78" c="false" group="3" id="45" name="grassmain 78" sx="1.0" sy="1.0" x="0" y="280" z="2"/>
+        <actor a="0.0" aid="79" c="false" group="3" id="45" name="grassmain 79" sx="1.0" sy="1.0" x="0" y="240" z="2"/>
+        <actor a="0.0" aid="80" c="false" group="3" id="45" name="grassmain 80" sx="1.0" sy="1.0" x="120" y="320" z="2"/>
+        <actor a="0.0" aid="81" c="false" group="3" id="45" name="grassmain 81" sx="1.0" sy="1.0" x="160" y="320" z="2"/>
+        <actor a="0.0" aid="82" c="false" group="3" id="45" name="grassmain 82" sx="1.0" sy="1.0" x="200" y="320" z="2"/>
+        <actor a="0.0" aid="83" c="false" group="3" id="45" name="grassmain 83" sx="1.0" sy="1.0" x="240" y="320" z="2"/>
+        <actor a="0.0" aid="84" c="false" group="3" id="45" name="grassmain 84" sx="1.0" sy="1.0" x="280" y="320" z="2"/>
+        <actor a="0.0" aid="85" c="false" group="3" id="45" name="grassmain 85" sx="1.0" sy="1.0" x="320" y="320" z="2"/>
+        <actor a="0.0" aid="88" c="false" group="3" id="45" name="grassmain 88" sx="1.0" sy="1.0" x="80" y="320" z="2"/>
+        <actor a="0.0" aid="89" c="false" group="3" id="45" name="grassmain 89" sx="1.0" sy="1.0" x="80" y="360" z="2"/>
+        <actor a="0.0" aid="90" c="false" group="3" id="45" name="grassmain 90" sx="1.0" sy="1.0" x="40" y="360" z="2"/>
+        <actor a="0.0" aid="91" c="false" group="3" id="45" name="grassmain 91" sx="1.0" sy="1.0" x="0" y="360" z="2"/>
+        <actor a="0.0" aid="92" c="false" group="3" id="45" name="grassmain 92" sx="1.0" sy="1.0" x="0" y="320" z="2"/>
+        <actor a="0.0" aid="93" c="false" group="3" id="45" name="grassmain 93" sx="1.0" sy="1.0" x="40" y="320" z="2"/>
+        <actor a="0.0" aid="94" c="false" group="3" id="45" name="grassmain 94" sx="1.0" sy="1.0" x="120" y="360" z="2"/>
+        <actor a="0.0" aid="95" c="false" group="3" id="45" name="grassmain 95" sx="1.0" sy="1.0" x="160" y="360" z="2"/>
+        <actor a="0.0" aid="96" c="false" group="3" id="45" name="grassmain 96" sx="1.0" sy="1.0" x="200" y="360" z="2"/>
+        <actor a="0.0" aid="97" c="false" group="3" id="45" name="grassmain 97" sx="1.0" sy="1.0" x="240" y="360" z="2"/>
+        <actor a="0.0" aid="98" c="false" group="3" id="45" name="grassmain 98" sx="1.0" sy="1.0" x="280" y="360" z="2"/>
+        <actor a="0.0" aid="99" c="false" group="3" id="45" name="grassmain 99" sx="1.0" sy="1.0" x="320" y="360" z="2"/>
+        <actor a="0.0" aid="102" c="false" group="3" id="45" name="grassmain 102" sx="1.0" sy="1.0" x="320" y="440" z="2"/>
+        <actor a="0.0" aid="106" c="false" group="3" id="45" name="grassmain 106" sx="1.0" sy="1.0" x="200" y="440" z="2"/>
+        <actor a="0.0" aid="108" c="false" group="3" id="45" name="grassmain 108" sx="1.0" sy="1.0" x="120" y="440" z="2"/>
+        <actor a="0.0" aid="109" c="false" group="3" id="45" name="grassmain 109" sx="1.0" sy="1.0" x="80" y="440" z="2"/>
+        <actor a="0.0" aid="110" c="false" group="3" id="45" name="grassmain 110" sx="1.0" sy="1.0" x="40" y="440" z="2"/>
+        <actor a="0.0" aid="111" c="false" group="3" id="45" name="grassmain 111" sx="1.0" sy="1.0" x="0" y="440" z="2"/>
+        <actor a="0.0" aid="112" c="false" group="3" id="45" name="grassmain 112" sx="1.0" sy="1.0" x="0" y="480" z="2"/>
+        <actor a="0.0" aid="113" c="false" group="3" id="45" name="grassmain 113" sx="1.0" sy="1.0" x="40" y="400" z="2"/>
+        <actor a="0.0" aid="114" c="false" group="3" id="45" name="grassmain 114" sx="1.0" sy="1.0" x="80" y="400" z="2"/>
+        <actor a="0.0" aid="115" c="false" group="3" id="45" name="grassmain 115" sx="1.0" sy="1.0" x="120" y="400" z="2"/>
+        <actor a="0.0" aid="116" c="false" group="3" id="45" name="grassmain 116" sx="1.0" sy="1.0" x="0" y="400" z="2"/>
+        <actor a="0.0" aid="117" c="false" group="3" id="45" name="grassmain 117" sx="1.0" sy="1.0" x="80" y="480" z="2"/>
+        <actor a="0.0" aid="118" c="false" group="3" id="45" name="grassmain 118" sx="1.0" sy="1.0" x="120" y="480" z="2"/>
+        <actor a="0.0" aid="119" c="false" group="3" id="45" name="grassmain 119" sx="1.0" sy="1.0" x="240" y="440" z="2"/>
+        <actor a="0.0" aid="120" c="false" group="3" id="45" name="grassmain 120" sx="1.0" sy="1.0" x="240" y="400" z="2"/>
+        <actor a="0.0" aid="121" c="false" group="3" id="45" name="grassmain 121" sx="1.0" sy="1.0" x="200" y="400" z="2"/>
+        <actor a="0.0" aid="122" c="false" group="3" id="45" name="grassmain 122" sx="1.0" sy="1.0" x="160" y="400" z="2"/>
+        <actor a="0.0" aid="123" c="false" group="3" id="45" name="grassmain 123" sx="1.0" sy="1.0" x="40" y="480" z="2"/>
+        <actor a="0.0" aid="125" c="false" group="3" id="45" name="grassmain 125" sx="1.0" sy="1.0" x="280" y="440" z="2"/>
+        <actor a="0.0" aid="126" c="false" group="3" id="45" name="grassmain 126" sx="1.0" sy="1.0" x="280" y="400" z="2"/>
+        <actor a="0.0" aid="127" c="false" group="3" id="45" name="grassmain 127" sx="1.0" sy="1.0" x="320" y="400" z="2"/>
+        <actor a="0.0" aid="129" c="false" group="3" id="45" name="grassmain 129" sx="1.0" sy="1.0" x="320" y="480" z="2"/>
+        <actor a="0.0" aid="156" c="false" group="3" id="45" name="grassmain 156" sx="1.0" sy="1.0" x="280" y="120" z="2"/>
+        <actor a="0.0" aid="157" c="false" group="3" id="45" name="grassmain 157" sx="1.0" sy="1.0" x="320" y="120" z="2"/>
+        <actor a="0.0" aid="160" c="false" group="3" id="45" name="grassmain 160" sx="1.0" sy="1.0" x="320" y="160" z="2"/>
+        <actor a="0.0" aid="161" c="false" group="3" id="45" name="grassmain 161" sx="1.0" sy="1.0" x="280" y="160" z="2"/>
+        <actor a="0.0" aid="162" c="false" group="3" id="45" name="grassmain 162" sx="1.0" sy="1.0" x="280" y="200" z="2"/>
+        <actor a="0.0" aid="163" c="false" group="3" id="45" name="grassmain 163" sx="1.0" sy="1.0" x="320" y="200" z="2"/>
+        <actor a="0.0" aid="165" c="false" group="3" id="45" name="grassmain 165" sx="1.0" sy="1.0" x="320" y="240" z="2"/>
+        <actor a="0.0" aid="166" c="false" group="3" id="45" name="grassmain 166" sx="1.0" sy="1.0" x="280" y="240" z="2"/>
+        <actor a="0.0" aid="169" c="false" group="3" id="45" name="grassmain 169" sx="1.0" sy="1.0" x="320" y="280" z="2"/>
+        <actor a="0.0" aid="170" c="false" group="3" id="45" name="grassmain 170" sx="1.0" sy="1.0" x="280" y="280" z="2"/>
+        <actor a="0.0" aid="191" c="false" group="3" id="45" name="grassmain 191" sx="1.0" sy="1.0" x="320" y="520" z="2"/>
+        <actor a="0.0" aid="192" c="false" group="3" id="45" name="grassmain 192" sx="1.0" sy="1.0" x="280" y="520" z="2"/>
+        <actor a="0.0" aid="193" c="false" group="3" id="45" name="grassmain 193" sx="1.0" sy="1.0" x="240" y="520" z="2"/>
+        <actor a="0.0" aid="194" c="false" group="3" id="45" name="grassmain 194" sx="1.0" sy="1.0" x="200" y="520" z="2"/>
+        <actor a="0.0" aid="195" c="false" group="3" id="45" name="grassmain 195" sx="1.0" sy="1.0" x="160" y="520" z="2"/>
+        <actor a="0.0" aid="196" c="false" group="3" id="45" name="grassmain 196" sx="1.0" sy="1.0" x="120" y="520" z="2"/>
+        <actor a="0.0" aid="197" c="false" group="3" id="45" name="grassmain 197" sx="1.0" sy="1.0" x="80" y="520" z="2"/>
+        <actor a="0.0" aid="198" c="false" group="3" id="45" name="grassmain 198" sx="1.0" sy="1.0" x="40" y="520" z="2"/>
+        <actor a="0.0" aid="199" c="false" group="3" id="45" name="grassmain 199" sx="1.0" sy="1.0" x="0" y="520" z="2"/>
+        <actor a="0.0" aid="209" c="false" group="3" id="89" name="buttom 209" sx="1.0" sy="1.0" x="280" y="565" z="0"/>
+        <actor a="0.0" aid="210" c="false" group="3" id="96" name="bottomblue 210" sx="1.0" sy="1.0" x="40" y="565" z="0"/>
+        <actor a="0.0" aid="211" c="false" group="3" id="93" name="build 211" sx="1.0" sy="1.0" x="160" y="566" z="0"/>
+        <actor a="0.0" aid="212" c="false" group="3" id="45" name="grassmain 212" sx="1.0" sy="1.0" x="200" y="480" z="2"/>
+        <actor a="0.0" aid="213" c="false" group="3" id="45" name="grassmain 213" sx="1.0" sy="1.0" x="160" y="80" z="2"/>
+        <actor a="0.0" aid="214" c="false" group="3" id="45" name="grassmain 214" sx="1.0" sy="1.0" x="160" y="40" z="2"/>
+        <actor a="0.0" aid="215" c="false" group="3" id="45" name="grassmain 215" sx="1.0" sy="1.0" x="160" y="480" z="2"/>
+        <actor a="0.0" aid="216" c="false" group="3" id="45" name="grassmain 216" sx="1.0" sy="1.0" x="160" y="440" z="2"/>
+        <actor a="0.0" aid="217" c="false" group="3" id="49" name="grass2 217" sx="1.0" sy="1.0" x="40" y="40" z="2"/>
+        <actor a="0.0" aid="218" c="false" group="3" id="49" name="grass2 218" sx="1.0" sy="1.0" x="80" y="40" z="2"/>
+        <actor a="0.0" aid="219" c="false" group="3" id="49" name="grass2 219" sx="1.0" sy="1.0" x="240" y="480" z="2"/>
+        <actor a="0.0" aid="220" c="false" group="3" id="49" name="grass2 220" sx="1.0" sy="1.0" x="280" y="480" z="2"/>
+        <actor a="0.0" aid="221" c="false" group="3" id="0" name="civblue 221" sx="1.0" sy="1.0" x="40" y="40" z="0"/>
+        <actor a="0.0" aid="222" c="false" group="3" id="0" name="civblue 222" sx="1.0" sy="1.0" x="80" y="40" z="0"/>
+        <actor a="0.0" aid="223" c="false" group="3" id="83" name="civred 223" sx="1.0" sy="1.0" x="280" y="480" z="0"/>
+        <actor a="0.0" aid="224" c="false" group="3" id="83" name="civred 224" sx="1.0" sy="1.0" x="240" y="480" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
